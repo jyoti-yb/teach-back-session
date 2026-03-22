@@ -1,24 +1,16 @@
-# 🤝 Wanna Contribute? You are at the right place!
+# Wanna Contribute? You are at the right place!
 
 Thank you for contributing! 🎉
 This repository is built for learning, so **every contribution matters**.
 
----
-
-## 🧠 Before You Start
-
-Please:
-
+## Before You Start Please:
 * Read the README
 * Start with `01-git-basics` if you're new
 * Follow instructions in each `task.md`
 
----
-
-## 🚀 Contribution Workflow
+## Contribution Workflow
 
 ### 1️. Fork the Repository
-
 Click **Fork** on top right
 
 ### 2️. Clone Your Fork
@@ -54,8 +46,6 @@ git commit -m "Added: short meaningful message"
 git push origin your-name-feature
 ```
 
----
-
 ### 6. Create a Pull Request (PR)
 
 * Go to your fork on GitHub
@@ -64,8 +54,6 @@ git push origin your-name-feature
 
   * Title
   * Description (what + why)
-
----
 
 ## 🧪 Types of Contributions
 
@@ -88,7 +76,6 @@ git push origin your-name-feature
 * Add deployment guides
 * Design new real-world tasks
 
----
 
 ## ⚠️ Rules & Best Practices
 
@@ -97,8 +84,6 @@ git push origin your-name-feature
 * ✔️ Always create a branch
 * ✔️ Write clear PR descriptions
 * ✔️ Be respectful in reviews
-
----
 
 ## Special Practice Tasks
 
@@ -109,7 +94,6 @@ To simulate real-world development:
 * Break things and fix them
 * Collaborate with others
 
----
 
 ## 💬 Need Help?
 
@@ -117,14 +101,12 @@ To simulate real-world development:
 * Ask in PR comments
 * Collaborate with others
 
----
-
 ## 🌟 Goal
 
 This repo is not just about Git commands.
 
 👉 It’s about learning how developers actually work in teams.
 
----
+
 
 Happy Contributing 
